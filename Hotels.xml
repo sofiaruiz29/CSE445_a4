@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://sofiaruiz29.github.io/CSE445_a4/Hotels.xsd">
-  
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -14,7 +13,6 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  
   <Hotel Rating="4.5">
     <Name>The Phoenician</Name>
     <Phone>480-941-8200</Phone>
@@ -26,7 +24,6 @@
       <Zip>85251</Zip>
     </Address>
   </Hotel>
-
   <Hotel>
     <Name>Hyatt Regency Phoenix</Name>
     <Phone>602-252-1234</Phone>
@@ -38,7 +35,6 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.0">
     <Name>Arizona Biltmore</Name>
     <Phone>602-955-6600</Phone>
@@ -51,7 +47,6 @@
       <Zip>85016</Zip>
     </Address>
   </Hotel>
-
   <Hotel>
     <Name>Tempe Mission Palms</Name>
     <Phone>480-894-1400</Phone>
@@ -63,7 +58,6 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  
   <Hotel Rating="4.3">
     <Name>JW Marriott Phoenix Desert Ridge</Name>
     <Phone>480-293-5000</Phone>
@@ -75,7 +69,6 @@
       <Zip>85054</Zip>
     </Address>
   </Hotel>
-  
   <Hotel>
     <Name>Hotel Valley Ho</Name>
     <Phone>480-376-2600</Phone>
@@ -87,7 +80,6 @@
       <Zip>85251</Zip>
     </Address>
   </Hotel>
-  
   <Hotel Rating="3.8">
     <Name>Sheraton Phoenix Downtown</Name>
     <Phone>602-262-2500</Phone>
@@ -99,7 +91,6 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-
   <Hotel>
     <Name>Graduate Tempe</Name>
     <Phone>480-967-9431</Phone>
@@ -112,7 +103,6 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.6">
     <Name>Royal Palms Resort and Spa</Name>
     <Phone>602-840-3610</Phone>
@@ -124,7 +114,6 @@
       <Zip>85018</Zip>
     </Address>
   </Hotel>
-  
   <Hotel>
     <Name>Canopy by Hilton Tempe</Name>
     <Phone>480-612-4800</Phone>
@@ -136,6 +125,5 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  
-
 </Hotels>
+
